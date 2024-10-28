@@ -11,8 +11,7 @@ public class Sale implements Comparable<Sale> {
 	private String seller;
 	private Integer items;
 	private Double total;
-	private static String nameVendedor;
-	private static String nameVendedor2;
+
 
 	// Método Getter e Setter
 	public Integer getMonth() {
